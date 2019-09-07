@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name" translatable="false">SplashActivity1</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="login">Login</string>
+    <string name="my_todo" translatable="false">My ToDo</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? register</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="login_success">Login success</string>
+    <string name="login_failed">Invalid email or password</string>
+</resources>
